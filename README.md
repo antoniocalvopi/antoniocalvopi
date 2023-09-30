@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [IDE E-sports](https://twitter.com/IDEsportsGG)
 
-- 🌱 I’m currently learning **Computer engineering in information technology**
+- 🌱 I’m currently learning **Computer Engineering in Information of Technology**
 
 - 👨‍💻 All of my projects as a amateur Graphical Designer are available at [https://www.behance.net/acdevss23](https://www.behance.net/acdevss23)
 
