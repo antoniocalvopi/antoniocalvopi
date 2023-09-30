@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer engineering in information technology**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/acdevss23](https://www.behance.net/acdevss23)
+- 👨‍💻 All of my projects as a amateur Graphical Designer are available at [https://www.behance.net/acdevss23](https://www.behance.net/acdevss23)
 
 - 📫 How to reach me **acdevss23@gmail.com**
 
