@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/acdevs_official" target="blank"><img src="https://img.shields.io/twitter/follow/acdevs_official?logo=twitter&style=for-the-badge" alt="acdevs_official" /></a> </p>
 
-- 🔭 I’m currently working for [IDE E-sports](https://twitter.com/IDEsportsGG)
+- 🎨 I am currently working as a freelance graphic designer.
 
 - 🌱 I’m currently learning **Computer Engineering in Information of Technology**
 
 - 👨‍💻 All of my projects as a amateur Graphical Designer are available at [https://www.behance.net/acdevss23](https://www.behance.net/acdevss23)
 
-- 📫 How to reach me **acdevss23@gmail.com**
+- 📫 How to reach me **https://antoniocalvopi.github.io/LinksBioTool/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
