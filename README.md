@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Computer Engineering in Information of Technology**
 
-- 👨‍💻 All of my projects as a amateur Graphical Designer are available at [https://www.behance.net/acdevss23](https://www.behance.net/acdevss23)
+- 👨‍💻 All of my projects as a amateur Graphical Designer are available at [Portofolio 23 - 24](https://www.behance.net/gallery/187547989/Portfolio-23-24)
 
-- 📫 How to reach me **https://antoniocalvopi.github.io/LinksBioTool/**
+- 📫 How to reach me **[All my links](https://antoniocalvopi.github.io/LinksBioTool/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
