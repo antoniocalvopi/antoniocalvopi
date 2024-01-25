@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate Software developer from Spain</h3>
 
-<p align="left"> <a href="https://twitter.com/acdevs_official" target="blank"><img src="https://img.shields.io/twitter/follow/acdevs_official?logo=twitter&style=for-the-badge" alt="acdevs_official" /></a> </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/antonio-calvo-picon-489315279/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkeding" />
