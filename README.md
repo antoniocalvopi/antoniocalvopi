@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋, I'm Antonio</h2>
 
 ###
-
 <p align="left">A passionate Software developer from Spain<br><br>- 🎨 I am currently working as a freelance graphic designer.<br><br>- 🌱 I’m currently learning Computer Engineering in Information of Technology.<br><br>- 👨‍💻 All of my projects as a amateur Graphical Designer are available at my behance Porfolio.</p>
 <div align="center">
   <a href="https://www.instagram.com/acdevss__/" target="_blank">
@@ -17,13 +16,9 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
-
 ###
-
 <p align="left">Skills</p>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,13 +32,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
 </div>
-
 ###
-
 <p align="left">Db's worked</p>
-
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="12" />
@@ -53,15 +44,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
 </div>
-
 ###
-
 <p align="left">Technical Skills</p>
-
 ###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
@@ -73,7 +58,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
 </div>
-
 ###
 
 <div align="center">
