@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Skills</p>
+<p align="left">Developing skills</p>
 
 ###
 
